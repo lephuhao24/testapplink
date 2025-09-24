@@ -5,6 +5,20 @@
     ],
     "target": {
       "namespace": "android_app",
+      "package_name": "vn.com.shinhanfinance.ishinhan.uat",
+      "sha256_cert_fingerprints": [
+        "37:AA:79:05:CF:CB:AD:3B:96:91:C8:BD:3E:DA:BF:95:BF:8D:09:E3:65:87:77:CA:7F:4A:A1:06:AC:47:DA:89",
+        "45:4D:A7:8B:D0:44:9D:3B:46:86:3E:80:55:80:04:63:84:CE:AA:E9:4E:4D:1C:C4:2A:5F:AB:06:F1:C2:2C:EC",
+        "E5:56:14:CC:A7:B3:20:C2:4D:45:60:52:9C:44:82:B2:B4:70:75:32:D1:54:63:3C:1D:49:52:E2:29:F4:31:F1"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
       "package_name": "vn.com.shinhanfinance.ishinhan.dev",
       "sha256_cert_fingerprints": [
         "37:AA:79:05:CF:CB:AD:3B:96:91:C8:BD:3E:DA:BF:95:BF:8D:09:E3:65:87:77:CA:7F:4A:A1:06:AC:47:DA:89",
@@ -20,20 +34,6 @@
     "target": {
       "namespace": "android_app",
       "package_name": "vn.com.shinhanfinance.ishinhan.preprod",
-      "sha256_cert_fingerprints": [
-        "37:AA:79:05:CF:CB:AD:3B:96:91:C8:BD:3E:DA:BF:95:BF:8D:09:E3:65:87:77:CA:7F:4A:A1:06:AC:47:DA:89",
-        "45:4D:A7:8B:D0:44:9D:3B:46:86:3E:80:55:80:04:63:84:CE:AA:E9:4E:4D:1C:C4:2A:5F:AB:06:F1:C2:2C:EC",
-        "E5:56:14:CC:A7:B3:20:C2:4D:45:60:52:9C:44:82:B2:B4:70:75:32:D1:54:63:3C:1D:49:52:E2:29:F4:31:F1"
-      ]
-    }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "vn.com.shinhanfinance.ishinhan.uat",
       "sha256_cert_fingerprints": [
         "37:AA:79:05:CF:CB:AD:3B:96:91:C8:BD:3E:DA:BF:95:BF:8D:09:E3:65:87:77:CA:7F:4A:A1:06:AC:47:DA:89",
         "45:4D:A7:8B:D0:44:9D:3B:46:86:3E:80:55:80:04:63:84:CE:AA:E9:4E:4D:1C:C4:2A:5F:AB:06:F1:C2:2C:EC",
